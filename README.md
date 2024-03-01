@@ -4,6 +4,7 @@
 - ⚡ Currently in my 4-th semester of Software Technology Engineering at VIA University College, Horsens.
 - 🌱 I’m currently learning ReactJS, Docker and C.
 - 💬 Ask me about Java, #C/.NET, JavaScript, SQL, HTML, CSS.
+- 😄 I'm a dancer, guitar player, danish-learner and cooking-lover 
 
 <!--
 **gramovi4a/gramovi4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
