@@ -3,7 +3,7 @@
 - ⚡ I’m a Software Developer from Riga, Latvia
 - ⚡ Currently in my 4-th semester of Software Technology Engineering at VIA University College, Horsens.
 - 🌱 I’m currently learning ReactJS, Docker and C.
-- - 💬 Ask me about Java, #C/.NET, JavaScript, SQL, HTML, CSS.
+- 💬 Ask me about Java, #C/.NET, JavaScript, SQL, HTML, CSS.
 
 <!--
 **gramovi4a/gramovi4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
