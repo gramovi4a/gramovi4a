@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Julija Gramovica</h1>
 
 - ⚡ I’m a Software Developer from Riga, Latvia
-- ⚡ Currently in my 4-th semester of Software Technology Engineering at VIA University College, Horsens.
+- ⚡ Currently in my 4th semester of Software Technology Engineering at VIA University College, Horsens.
 - 🌱 I’m currently learning ReactJS, Docker, Containers and C.
 - 💬 Ask me about Java, #C/.NET, JavaScript, SQL, HTML, CSS.
 - 😄 I'm a dancer, guitar player, danish-learner and cooking-lover.
