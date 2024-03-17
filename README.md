@@ -6,7 +6,7 @@
 - 💬 Ask me about Java, #C/.NET, JavaScript, SQL, HTML, CSS.
 - 😄 I'm a dancer, guitar player, danish-learner and cooking-lover.
 
-### :center: Skills :center:
+<h2 align="center">My Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
