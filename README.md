@@ -8,6 +8,12 @@
 
 - ### Skills
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,react,html,css,figma&theme=dark" />
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,react,html,css,figma&theme=dark)](https://skillicons.dev)
 <!--
 **gramovi4a/gramovi4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
