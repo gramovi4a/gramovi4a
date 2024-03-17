@@ -6,15 +6,13 @@
 - 💬 Ask me about Java, #C/.NET, JavaScript, SQL, HTML, CSS.
 - 😄 I'm a dancer, guitar player, danish-learner and cooking-lover.
 
-- ### Skills
+<h2 align= "center">Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,react,html,css,figma&theme=dark" />
   </a>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,react,html,css,figma&theme=dark)](https://skillicons.dev)
 <!--
 **gramovi4a/gramovi4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
