@@ -2,8 +2,8 @@
 
 - ⚡ I’m a Software Developer from Riga, Latvia
 - ⚡ Currently in my 4th semester of Software Technology Engineering at VIA University College, Horsens.
-- 🌱 I’m currently learning ReactJS, Docker, Containers and C.
-- 💬 Ask me about Java, #C/.NET, JavaScript, SQL, HTML, CSS.
+- 🌱 I’m currently learning Typescript, Tailwind CSS, Docker, Containers and C.
+- 💬 Ask me about Java, #C/.NET, JavaScript, ReactJS, SQL, HTML, CSS.
 - 😄 I'm a dancer, guitar player, danish-learner and cooking-lover.
 
 <h2 align="center">My Skills</h2>
